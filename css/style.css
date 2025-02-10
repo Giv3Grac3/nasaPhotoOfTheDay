@@ -1,0 +1,27 @@
+body {
+  background-color: #ecf39e;
+}
+.box {
+  border-color: #4f772d;
+  border-style: solid;
+  background-color: #90a955;
+  margin: 3rem;
+  padding: 3rem;
+  border-width: 1rem;
+  border-radius: 25%;
+}
+h1 {
+  text-align: center;
+  color: green;
+}
+.bttn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border: 20px solid #31572c;
+  border-radius: 20%;
+  background-color: #9bb275;
+  color: green;
+  text-align: center;
+}
